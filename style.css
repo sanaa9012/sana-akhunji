@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(218, 127, 62);
+}
+.kp{
+    text-align: center;
+    padding-top: 100px;
+}
+.jems{
+    text-align: center;
+  
+}
+.kunj{
+    border: 2px;
+    border-color: black;
+}
+body{
+    background-image: url('https://www.pngmart.com/files/8/Sheet-PNG-Background-Image.png' );
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 40% ;
+      background-position: 50%;
+
+}
+.chavda{
+    border: 1px;
+    align-items: center;
+}
+label{
+    display: inline-block;
+}
